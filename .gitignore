@@ -1,0 +1,24 @@
+# Secret configuration
+backend/src/main/resources/application.properties
+
+# Demo video
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Backend
+backend/target/
+
+# Environment files
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
